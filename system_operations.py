@@ -6,4 +6,4 @@ def cpu():
 
 def battary():
     available_bat= str(psutil.sensors_battery())
-    return "CPU is at "+available_bat
+    return "Battary is at "+available_bat
