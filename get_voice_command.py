@@ -6,7 +6,7 @@ def command():
     command=""
     with sr.Microphone() as source:
         print("Listening")
-        speak_fun.speak("I'm listening")
+        speak_fun.speak("I am listening")
         s.pause_threshold = 1
         sound = s.listen(source)
 
