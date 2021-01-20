@@ -1,7 +1,7 @@
 # PAS-Personal-Assistant
 
 **Simple Personal Assistant using python , It can understand human speech and make some basic tasks**
-![https://github.com/waleednegm/PAS-Personal-Assistant/blob/master/screenshot.png]()
+![https://raw.githubusercontent.com/waleednegm/PAS-Personal-Assistant/master/screenshot.png]()
 ## It can perform this tasks:
 1. open new tab in your browser and search about any website you want
 2. translate to any language
