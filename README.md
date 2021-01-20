@@ -1,6 +1,6 @@
 # PAS-Personal-Assistant
 
-Simple Personal Assistant using python , It can understand human speech and make some basic tasks
+** Simple Personal Assistant using python , It can understand human speech and make some basic tasks **
 
 It can perform this tasks:
 1 - open new tab in your browser and search about any website you want
