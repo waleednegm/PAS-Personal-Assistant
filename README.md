@@ -13,3 +13,7 @@
 6. get cpu and battary usage
 7. open desktop/documents/downloads directory
 8. make calculations
+9. search in wikipedia
+
+## Requirements: <br />
+pip install -r requirements.txt
