@@ -2,7 +2,7 @@
 
 **Simple Personal Assistant using python , It can understand human speech and make some basic tasks**
 
-##It can perform this tasks:
+## It can perform this tasks:
 1. open new tab in your browser and search about any website you want
 2. translate to any language
 3. know you about the current time and date
