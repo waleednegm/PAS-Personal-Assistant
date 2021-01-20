@@ -40,14 +40,14 @@ if __name__ == "__main__":
         elif "search youtube" in command:
             print("what are you want me to search in youtube for you ? ")
             sf.speak("what are you want me to search in youtube for you ? ")
-            youtube_search = command.command_().lower()
+            youtube_search = gvc.command().lower()
             print("Ok")
             sf.speak("Ok")
             sy.search(youtube_search)
         elif "search google" in command:
             print("what are you want me to search in google for you ? ")
             sf.speak("what are you want me to search in google for you ? ")
-            google_search = command.command_().lower()
+            google_search = gvc.command().lower()
             print("Ok")
             sf.speak("Ok")
             sg.search(google_search)

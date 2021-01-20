@@ -1,6 +1,9 @@
-webbrowser
+#webbrowser
 wolframalpha
 pyttsx3
 psutil
 googletrans
 wikipedia
+
+SpeechRecognition
+pipwin
