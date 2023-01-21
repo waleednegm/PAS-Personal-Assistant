@@ -1,6 +1,6 @@
 # PAS-Personal-Assistant
 
-**Simple Personal Assistant using python , It can understand human speech and make some basic tasks** <br />
+**Personal Assistant using python , It can understand human speech and make some basic tasks** <br />
 <br />
 <br />
 ![](https://github.com/waleednegm/PAS-Personal-Assistant/blob/master/screenshot.png)
